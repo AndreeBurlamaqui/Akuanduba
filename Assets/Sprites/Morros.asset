@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af7181f404f1447c0a7a17b3070b952b, type: 3}
+  m_Name: Morros
+  m_EditorClassIdentifier: 
+  m_Angles:
+  - m_Start: -180
+    m_End: 180
+    m_Order: 0
+    m_Sprites:
+    - {fileID: 21300000, guid: a462a2c87118bd44c829a2e51d2c4451, type: 3}
+    - {fileID: 21300000, guid: 17250d157e86ef04ba7123e5af430767, type: 3}
+    - {fileID: 21300000, guid: 86526d53b733a3d4d9861fb5730be216, type: 3}
+    - {fileID: 21300000, guid: 940db1db2e96fa74c91298f1ad1dc23b, type: 3}
+    - {fileID: -5429173831861718895, guid: 9f8885827d98ad94797e42825e640348, type: 3}
+    - {fileID: 6400974894935662908, guid: 9f8885827d98ad94797e42825e640348, type: 3}
+    - {fileID: 8470871473639742094, guid: 9f8885827d98ad94797e42825e640348, type: 3}
+    - {fileID: 6225142133173204098, guid: 9f8885827d98ad94797e42825e640348, type: 3}
+    - {fileID: 0}
+  m_FillTexture: {fileID: 0}
+  m_CornerSprites:
+  - m_CornerType: 0
+    m_Sprites:
+    - {fileID: 0}
+  - m_CornerType: 1
+    m_Sprites:
+    - {fileID: 0}
+  - m_CornerType: 2
+    m_Sprites:
+    - {fileID: 0}
+  - m_CornerType: 3
+    m_Sprites:
+    - {fileID: 0}
+  - m_CornerType: 4
+    m_Sprites:
+    - {fileID: 0}
+  - m_CornerType: 5
+    m_Sprites:
+    - {fileID: 0}
+  - m_CornerType: 6
+    m_Sprites:
+    - {fileID: 0}
+  - m_CornerType: 7
+    m_Sprites:
+    - {fileID: 0}
+  m_FillOffset: 0
+  m_UseSpriteBorders: 1

@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db2935cb59066d742ad16dcbf8f3c803, type: 3}
+  m_Name: ProtagVoice
+  m_EditorClassIdentifier: 
+  audios:
+  - audioClipName: Wait1
+    clip: {fileID: 8300000, guid: a9410ea37f2e0044fa8c8f5a128cedc1, type: 3}
+  - audioClipName: Wait2
+    clip: {fileID: 8300000, guid: 6e4b6ef7e28b002409b00ebd7c644c35, type: 3}
+  - audioClipName: Wait3
+    clip: {fileID: 8300000, guid: 65b076f6f591d6949a3710d1a0a90e09, type: 3}
+  - audioClipName: Wait4
+    clip: {fileID: 8300000, guid: dfd4fe696ac6de645bd4a879e5bad754, type: 3}
+  - audioClipName: Wait5
+    clip: {fileID: 8300000, guid: 108b52e0e6d39c54abbce73f1b9d7b1f, type: 3}
+  - audioClipName: Wait6
+    clip: {fileID: 8300000, guid: 28e9bdadb576ec747bcd66429a3d6707, type: 3}
+  - audioClipName: Wait7
+    clip: {fileID: 8300000, guid: e78ea1d3b9ae35641a3da297e52195ad, type: 3}
+  - audioClipName: Wait8
+    clip: {fileID: 8300000, guid: 850c1d9e152ed7845809b45b1634073d, type: 3}
+  - audioClipName: Wait9
+    clip: {fileID: 8300000, guid: d3d2a3e165c7ee943b3313e0bdb3e7b3, type: 3}
+  - audioClipName: Wait10
+    clip: {fileID: 8300000, guid: ca998078e0e5bf249aa6c278e22a569b, type: 3}
+  - audioClipName: Wait11
+    clip: {fileID: 8300000, guid: cb060a050ed228e45a46815d67321923, type: 3}
+  - audioClipName: Wait12
+    clip: {fileID: 8300000, guid: fddbff3f2182c93449436f1af0e1ea4d, type: 3}
+  - audioClipName: Follow1
+    clip: {fileID: 8300000, guid: 32792e446c565da4a8d185644455cb09, type: 3}
+  - audioClipName: Follow2
+    clip: {fileID: 8300000, guid: 6f4dffccdd19aa547862de4809569613, type: 3}
+  - audioClipName: Follow3
+    clip: {fileID: 8300000, guid: 411d3e28496b51345a02b203ba175f09, type: 3}
+  - audioClipName: Follow4
+    clip: {fileID: 8300000, guid: 0466c045dbdf23c4f8c7fcec8276f1af, type: 3}
+  - audioClipName: Follow5
+    clip: {fileID: 8300000, guid: a5ef0d20ba6f31b41bca096e575556a7, type: 3}
+  - audioClipName: Follow6
+    clip: {fileID: 8300000, guid: 00642e484e7668b4ca903a6763f7a552, type: 3}
+  - audioClipName: Follow7
+    clip: {fileID: 8300000, guid: 9ef7bcad4dbdab84b8665f0a8f2acf6c, type: 3}
+  - audioClipName: Follow8
+    clip: {fileID: 8300000, guid: ec339c7858c5bb04dba84830dd9d6593, type: 3}
+  - audioClipName: Follow9
+    clip: {fileID: 8300000, guid: 73a75dbc02ace894a8817a194343f7e2, type: 3}
+  - audioClipName: GameOver1
+    clip: {fileID: 8300000, guid: d2d2bd7bd3524fb4da622586e17375ec, type: 3}
+  - audioClipName: GameOver2
+    clip: {fileID: 8300000, guid: e735dabf7bf7dd542bc63554492ae3c4, type: 3}
+  - audioClipName: GameOver3
+    clip: {fileID: 8300000, guid: 3a59dc573f63b0f4389d16cf16b3f437, type: 3}
+  - audioClipName: GameOver4
+    clip: {fileID: 8300000, guid: 3096429c290983240b67a44d80ef8136, type: 3}
+  - audioClipName: GameOver5
+    clip: {fileID: 8300000, guid: c39df6c34d964834b9b6c34f20a148de, type: 3}
+  - audioClipName: GameOver6
+    clip: {fileID: 8300000, guid: 6f1900a83dd559f4d96708b87e4bf724, type: 3}
+  - audioClipName: GameOver7
+    clip: {fileID: 8300000, guid: 52522a8e41fc7734d8c4dfada770817a, type: 3}
+  - audioClipName: Running1
+    clip: {fileID: 8300000, guid: cc8c091d83c5193428b236523478d918, type: 3}
+  - audioClipName: Running2
+    clip: {fileID: 8300000, guid: 6b57a71fc7770244fb0061073ddb78af, type: 3}
+  - audioClipName: Running3
+    clip: {fileID: 8300000, guid: 868cc3aef6e21a9408e049ab017c41bf, type: 3}
+  - audioClipName: Running4
+    clip: {fileID: 8300000, guid: 475d1fee9afceec42b787ab3620c6b53, type: 3}
+  - audioClipName: Running5
+    clip: {fileID: 8300000, guid: 6b6a6d1e9b3c9f0429398fafa9f79ebe, type: 3}
+  - audioClipName: Running6
+    clip: {fileID: 8300000, guid: a1dc93b344ff7654e96589a095320197, type: 3}
+  - audioClipName: Jump1
+    clip: {fileID: 8300000, guid: fa1ae9b6bf9ab9645b5bc463afa5cb62, type: 3}
+  - audioClipName: Jump2
+    clip: {fileID: 8300000, guid: f8e02689afc193943b187fafb7180cd1, type: 3}
+  - audioClipName: Jump3
+    clip: {fileID: 8300000, guid: d8190e48436d1994187f76e0822371d3, type: 3}
+  volume: 0.714

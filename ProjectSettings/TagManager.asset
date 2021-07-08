@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - separador
+  - paredeInvisivel
+  - Water
+  - Enemy
+  - Movable
+  - GameManager
+  - SightTarget
+  - Boat
+  - TrupeController
+  - TrupeToCollect
+  - HearTarget
+  - TrupeMember
+  - Door
+  - DartToCollect
+  - MinionTP
+  - Ground
+  - Audio
+  - GameManag
+  - FOV
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Action
+  - Ground
+  - Ladder
+  - player
+  - Enemy
+  - Movable
+  - PostProcessing
+  - Wall
+  - Hear
+  - InvisibleWall
+  - Mask
+  - BehindMask
+  - Black
+  - StopBox
+  - Scene
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackgroundLight
+    uniqueID: 492429143
+    locked: 0
+  - name: Background
+    uniqueID: 3128968321
+    locked: 0
+  - name: Player
+    uniqueID: 1530092077
+    locked: 0
+  - name: Enemies
+    uniqueID: 8425065
+    locked: 0
+  - name: RainDrop
+    uniqueID: 990092525
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Water
+    uniqueID: 3993770829
+    locked: 0
+  - name: Ground
+    uniqueID: 2252712557
+    locked: 0
+  - name: Foreground
+    uniqueID: 1332998523
+    locked: 0
+  - name: RainSpringle
+    uniqueID: 457134861
+    locked: 0

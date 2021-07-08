@@ -1,0 +1,1113 @@
+fileFormatVersion: 2
+guid: 9f8885827d98ad94797e42825e640348
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 0
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 800
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData:
+  - name: Arvore_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3610
+      y: 7280
+      width: 2110
+      height: 2776
+    spriteID: 74a3dca34c6dacd40a0bf9a17db2fb18
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2913, y: 7146}
+  - name: Arvore_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 3598
+      height: 2502
+    spriteID: 5a2e4aa8a3012d14097affd161473398
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -76, y: -306}
+  - name: Arvore_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 9840
+      width: 2587
+      height: 2936
+    spriteID: 70f14d2e6a7cfa54bb6571c470555c3e
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -429, y: 9796}
+  - name: Arvore_4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 5133
+      width: 3578
+      height: 2316
+    spriteID: 0467419ae8601ac479016ad1a6dd74b6
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -167, y: 4740}
+  - name: "Cip\xF3"
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 7
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2599
+      y: 9840
+      width: 201
+      height: 2697
+    spriteID: 083310e0f7b273c4b8cdc55d1a3ccc52
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 663, y: 9653}
+  - name: Planta_Chao_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3610
+      y: 10064
+      width: 2059
+      height: 2678
+    spriteID: 515e209f454fa904c9c541d1ce142cb4
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2869, y: 9954}
+  - name: Planta_Chao_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3610
+      y: 4
+      width: 2512
+      height: 2757
+    spriteID: 9263e074bb126ce4badeffd4d53e9184
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2783, y: -164}
+  - name: Pedra_4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3610
+      y: 12750
+      width: 1736
+      height: 2811
+    spriteID: 6789e9cf203ac4140b1ed30700ab2590
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2505, y: 12713}
+  - name: Pedra_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3610
+      y: 2769
+      width: 2538
+      height: 2591
+    spriteID: 1af775648bf7c1f4799aacda0b38eb9d
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2898, y: 2571}
+  - name: Pedra_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3610
+      y: 5368
+      width: 3273
+      height: 1904
+    spriteID: 84c5d17cd1ecf034ba73a2848d1d03da
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3257, y: 4933}
+  - name: Pedra_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 15172
+      width: 2851
+      height: 1104
+    spriteID: 682a44791886a3b41a0cdb996f350a3c
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -510, y: 14380}
+  - name: Ponte_meio
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 426, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 87
+      y: 7457
+      width: 3178
+      height: 2375
+    spriteID: cf6c5f33cf817e84aae38229028fa979
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -449, y: 7079}
+  - name: Ponte_right_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 190, y: 0, z: 558, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 5728
+      y: 7280
+      width: 2297
+      height: 2423
+    spriteID: 6ceabd1db1c778c4b9a495ad53d6726a
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4839, y: 6965}
+  - name: Ponte_right_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2514
+      width: 3430
+      height: 2611
+    spriteID: c6152269b0a2e374c9ed3cf7890acaea
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -299, y: 2280}
+  - name: Ponte_left_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 5728
+      y: 9711
+      width: 2271
+      height: 2387
+    spriteID: b2017a33955a75b499959023c319968c
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 5088, y: 9430}
+  - name: Ponte_left_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 12784
+      width: 3115
+      height: 2380
+    spriteID: 2dcbb04986f61b348aa5a075fba5f39b
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -423, y: 12489}
+  rigSpriteImportData:
+  - name: Arvore_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3610
+      y: 7280
+      width: 2110
+      height: 2776
+    spriteID: 47a8c208afafd674d9056c03e0a4611d
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2913, y: 7146}
+  - name: Arvore_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 3598
+      height: 2502
+    spriteID: 8de87135991e4b3449d424d5b86f1070
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -76, y: -306}
+  - name: Arvore_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 9840
+      width: 2587
+      height: 2936
+    spriteID: 818cf6dd597a134479ea59b75bb6f4d1
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -429, y: 9796}
+  - name: Arvore_4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 5133
+      width: 3578
+      height: 2316
+    spriteID: 24c766d513c559942ba14f53b8839d39
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -167, y: 4740}
+  - name: "Cip\xF3"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2599
+      y: 9840
+      width: 201
+      height: 2697
+    spriteID: 66a642c3c3c4a6945b9142ee4e5d3c31
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 663, y: 9653}
+  - name: Planta_Chao_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3610
+      y: 10064
+      width: 2059
+      height: 2678
+    spriteID: 3d937fb02330efb44b5d2cfef0032586
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2869, y: 9954}
+  - name: Planta_Chao_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3610
+      y: 4
+      width: 2512
+      height: 2757
+    spriteID: 24e1acde1afe22a48989d3f28861614c
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2783, y: -164}
+  - name: Pedra_4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3610
+      y: 12750
+      width: 1736
+      height: 2811
+    spriteID: f49802132cd4948489c722d301ab38f1
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2505, y: 12713}
+  - name: Pedra_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3610
+      y: 2769
+      width: 2538
+      height: 2591
+    spriteID: 9b168529c1331de44b3c37b299bbf735
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2898, y: 2571}
+  - name: Pedra_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3610
+      y: 5368
+      width: 3273
+      height: 1904
+    spriteID: 7e39843bbcdb959409f9c0a99e958ce6
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3257, y: 4933}
+  - name: Pedra_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 15172
+      width: 2851
+      height: 1104
+    spriteID: 7541146dd53f02f4081afde259883abc
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -510, y: 14380}
+  - name: Ponte_meio
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 7457
+      width: 3261
+      height: 2375
+    spriteID: f1d98f31ca4e387429ca0c285494b6bb
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -449, y: 7079}
+  - name: Ponte_right_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 5728
+      y: 7280
+      width: 2297
+      height: 2423
+    spriteID: 9ea9d1d1d9b3e464da8e4e6459ec53b7
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4839, y: 6965}
+  - name: Ponte_right_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2514
+      width: 3430
+      height: 2611
+    spriteID: 16803784cef4be84e88f55fc694d18c4
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -299, y: 2280}
+  - name: Ponte_left_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 5728
+      y: 9711
+      width: 2271
+      height: 2387
+    spriteID: e5085584ad144074dbb79c36ba9b87e5
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 5088, y: 9430}
+  - name: Ponte_left_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 12784
+      width: 3115
+      height: 2380
+    spriteID: d8263bf6c15c8054f95fde9271d8b615
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -423, y: 12489}
+  platformSettings:
+  - name: Default
+    overridden: 1
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 4096
+  importedTextureHeight: 8192
+  documentSize: {x: 4000, y: 3000}
+  paperDollMode: 0
+  keepDupilcateSpriteName: 0
+  spriteCategoryList:
+    categories: []
+  textureActualWidth: 8192
+  textureActualHeight: 16384
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 0
+  mosaicPSDLayers:
+  - name: Arvores
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 26
+    mosaicPosition: {x: 0, y: 0}
+  - name: Arvore_1
+    spriteName: Arvore_1
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 74a3dca34c6dacd40a0bf9a17db2fb18
+    layerID: 25
+    mosaicPosition: {x: 3610, y: 7280}
+  - name: Arvore_2
+    spriteName: Arvore_2
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 5a2e4aa8a3012d14097affd161473398
+    layerID: 24
+    mosaicPosition: {x: 4, y: 4}
+  - name: Arvore_3
+    spriteName: Arvore_3
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 70f14d2e6a7cfa54bb6571c470555c3e
+    layerID: 23
+    mosaicPosition: {x: 4, y: 9840}
+  - name: Arvore_4
+    spriteName: Arvore_4
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 0467419ae8601ac479016ad1a6dd74b6
+    layerID: 22
+    mosaicPosition: {x: 4, y: 5133}
+  - name: "Cip\xF3"
+    spriteName: "Cip\xF3"
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 083310e0f7b273c4b8cdc55d1a3ccc52
+    layerID: 21
+    mosaicPosition: {x: 2599, y: 9840}
+  - name: Plantas Chao
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 19
+    mosaicPosition: {x: 0, y: 0}
+  - name: Planta_Chao_1
+    spriteName: Planta_Chao_1
+    isGroup: 0
+    parentIndex: 6
+    spriteID: 515e209f454fa904c9c541d1ce142cb4
+    layerID: 18
+    mosaicPosition: {x: 3610, y: 10064}
+  - name: Planta_Chao_2
+    spriteName: Planta_Chao_2
+    isGroup: 0
+    parentIndex: 6
+    spriteID: 9263e074bb126ce4badeffd4d53e9184
+    layerID: 17
+    mosaicPosition: {x: 3610, y: 4}
+  - name: Pedras
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 15
+    mosaicPosition: {x: 0, y: 0}
+  - name: Pedra_4
+    spriteName: Pedra_4
+    isGroup: 0
+    parentIndex: 9
+    spriteID: 6789e9cf203ac4140b1ed30700ab2590
+    layerID: 14
+    mosaicPosition: {x: 3610, y: 12750}
+  - name: Pedra_3
+    spriteName: Pedra_3
+    isGroup: 0
+    parentIndex: 9
+    spriteID: 1af775648bf7c1f4799aacda0b38eb9d
+    layerID: 13
+    mosaicPosition: {x: 3610, y: 2769}
+  - name: Pedra_2
+    spriteName: Pedra_2
+    isGroup: 0
+    parentIndex: 9
+    spriteID: 84c5d17cd1ecf034ba73a2848d1d03da
+    layerID: 12
+    mosaicPosition: {x: 3610, y: 5368}
+  - name: Pedra_1
+    spriteName: Pedra_1
+    isGroup: 0
+    parentIndex: 9
+    spriteID: 682a44791886a3b41a0cdb996f350a3c
+    layerID: 11
+    mosaicPosition: {x: 4, y: 15172}
+  - name: Ponte
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 9
+    mosaicPosition: {x: 0, y: 0}
+  - name: Ponte_meio
+    spriteName: Ponte_meio
+    isGroup: 0
+    parentIndex: 14
+    spriteID: cf6c5f33cf817e84aae38229028fa979
+    layerID: 8
+    mosaicPosition: {x: 4, y: 7457}
+  - name: Ponte_right_2
+    spriteName: Ponte_right_2
+    isGroup: 0
+    parentIndex: 14
+    spriteID: 6ceabd1db1c778c4b9a495ad53d6726a
+    layerID: 7
+    mosaicPosition: {x: 5728, y: 7280}
+  - name: Ponte_right_1
+    spriteName: Ponte_right_1
+    isGroup: 0
+    parentIndex: 14
+    spriteID: c6152269b0a2e374c9ed3cf7890acaea
+    layerID: 6
+    mosaicPosition: {x: 4, y: 2514}
+  - name: Ponte_left_2
+    spriteName: Ponte_left_2
+    isGroup: 0
+    parentIndex: 14
+    spriteID: b2017a33955a75b499959023c319968c
+    layerID: 5
+    mosaicPosition: {x: 5728, y: 9711}
+  - name: Ponte_left_1
+    spriteName: Ponte_left_1
+    isGroup: 0
+    parentIndex: 14
+    spriteID: 2dcbb04986f61b348aa5a075fba5f39b
+    layerID: 4
+    mosaicPosition: {x: 4, y: 12784}
+  rigPSDLayers:
+  - name: Arvores
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 26
+    mosaicPosition: {x: 0, y: 0}
+  - name: Arvore_1
+    spriteName: Arvore_1
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 47a8c208afafd674d9056c03e0a4611d
+    layerID: 25
+    mosaicPosition: {x: 3610, y: 7280}
+  - name: Arvore_2
+    spriteName: Arvore_2
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 8de87135991e4b3449d424d5b86f1070
+    layerID: 24
+    mosaicPosition: {x: 4, y: 4}
+  - name: Arvore_3
+    spriteName: Arvore_3
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 818cf6dd597a134479ea59b75bb6f4d1
+    layerID: 23
+    mosaicPosition: {x: 4, y: 9840}
+  - name: Arvore_4
+    spriteName: Arvore_4
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 24c766d513c559942ba14f53b8839d39
+    layerID: 22
+    mosaicPosition: {x: 4, y: 5133}
+  - name: "Cip\xF3"
+    spriteName: "Cip\xF3"
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 66a642c3c3c4a6945b9142ee4e5d3c31
+    layerID: 21
+    mosaicPosition: {x: 2599, y: 9840}
+  - name: Plantas Chao
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 19
+    mosaicPosition: {x: 0, y: 0}
+  - name: Planta_Chao_1
+    spriteName: Planta_Chao_1
+    isGroup: 0
+    parentIndex: 6
+    spriteID: 3d937fb02330efb44b5d2cfef0032586
+    layerID: 18
+    mosaicPosition: {x: 3610, y: 10064}
+  - name: Planta_Chao_2
+    spriteName: Planta_Chao_2
+    isGroup: 0
+    parentIndex: 6
+    spriteID: 24e1acde1afe22a48989d3f28861614c
+    layerID: 17
+    mosaicPosition: {x: 3610, y: 4}
+  - name: Pedras
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 15
+    mosaicPosition: {x: 0, y: 0}
+  - name: Pedra_4
+    spriteName: Pedra_4
+    isGroup: 0
+    parentIndex: 9
+    spriteID: f49802132cd4948489c722d301ab38f1
+    layerID: 14
+    mosaicPosition: {x: 3610, y: 12750}
+  - name: Pedra_3
+    spriteName: Pedra_3
+    isGroup: 0
+    parentIndex: 9
+    spriteID: 9b168529c1331de44b3c37b299bbf735
+    layerID: 13
+    mosaicPosition: {x: 3610, y: 2769}
+  - name: Pedra_2
+    spriteName: Pedra_2
+    isGroup: 0
+    parentIndex: 9
+    spriteID: 7e39843bbcdb959409f9c0a99e958ce6
+    layerID: 12
+    mosaicPosition: {x: 3610, y: 5368}
+  - name: Pedra_1
+    spriteName: Pedra_1
+    isGroup: 0
+    parentIndex: 9
+    spriteID: 7541146dd53f02f4081afde259883abc
+    layerID: 11
+    mosaicPosition: {x: 4, y: 15172}
+  - name: Ponte
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 9
+    mosaicPosition: {x: 0, y: 0}
+  - name: Ponte_meio
+    spriteName: Ponte_meio
+    isGroup: 0
+    parentIndex: 14
+    spriteID: f1d98f31ca4e387429ca0c285494b6bb
+    layerID: 8
+    mosaicPosition: {x: 4, y: 7457}
+  - name: Ponte_right_2
+    spriteName: Ponte_right_2
+    isGroup: 0
+    parentIndex: 14
+    spriteID: 9ea9d1d1d9b3e464da8e4e6459ec53b7
+    layerID: 7
+    mosaicPosition: {x: 5728, y: 7280}
+  - name: Ponte_right_1
+    spriteName: Ponte_right_1
+    isGroup: 0
+    parentIndex: 14
+    spriteID: 16803784cef4be84e88f55fc694d18c4
+    layerID: 6
+    mosaicPosition: {x: 4, y: 2514}
+  - name: Ponte_left_2
+    spriteName: Ponte_left_2
+    isGroup: 0
+    parentIndex: 14
+    spriteID: e5085584ad144074dbb79c36ba9b87e5
+    layerID: 5
+    mosaicPosition: {x: 5728, y: 9711}
+  - name: Ponte_left_1
+    spriteName: Ponte_left_1
+    isGroup: 0
+    parentIndex: 14
+    spriteID: d8263bf6c15c8054f95fde9271d8b615
+    layerID: 4
+    mosaicPosition: {x: 4, y: 12784}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+  generateGOHierarchy: 0
+  textureAssetName: Assets Texture
+  prefabAssetName: Assets Prefab
+  spriteLibAssetName: Assets Sprite Lib
+  secondarySpriteTextures: []
